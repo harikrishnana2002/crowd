@@ -30,7 +30,7 @@ export default function Footer() {
       >
         <Container maxWidth="sm">
           <Typography variant="body1">
-            CrowdHelp platform - [ONLY] Core functionalities done. 🚧.
+            Blockchain Backers platform 
           </Typography>
           <Copyright />
         </Container>

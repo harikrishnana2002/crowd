@@ -112,7 +112,7 @@ function NavBar() {
             },
           }}
         >
-          CrowdHelp
+          BlockchainBackers
         </Typography>
         <StorefrontIcon
           sx={{

@@ -67,14 +67,13 @@ function HomePage() {
       >
         <Box sx={{ mb: 2 }}>
           <Typography variant="h2" component="h1" gutterBottom>
-            🧑‍🤝‍🧑 Crowd Help :💰
+             Blockchain Backers :
           </Typography>
           <Typography variant="h5" component="h2" gutterBottom>
             {"Get Help from Crowd..!!"}
             {" Raise a campaign to help the needy."}
           </Typography>
           <Typography variant="body1">Welcome 👋 to the community.</Typography>
-          <Typography variant="body1">[ONLY] Core functionalities done 🚧. More features on the way..!! 🏃 </Typography>
         </Box>
         <Box sx={{ mt: 4, mb: 2 }}>
           <Stack>
